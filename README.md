@@ -5,13 +5,16 @@
 - matlab
 
 ## Content
-- main 
+- main.m
 - test.m
-- normalizedHistGram
-- GenerateVeMobilitySquare
-- chooseDirection
-- chechDirectionFeasible
-- checkIfIntersection
+- normalizedHistGram.m
+- GenerateVeMobilitySquare.m
+- chooseDirection.m
+- chechDirectionFeasible.m
+- checkIfIntersection.m
+- calV2VOnOffDurationforOneUser.m
+- moveDir.m
+- plotVehicleTraj.m
 - WorldX.txt, WorldY.txt: instance of generated trace
 
 ## Usage
