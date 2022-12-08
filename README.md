@@ -12,5 +12,7 @@
 - chooseDirection
 - chechDirectionFeasible
 - checkIfIntersection
+- WorldX.txt, WorldY.txt: instance of generated trace
 
 ## Usage
+You can modify the parameters in test.m, such as block number, block size, speed range and sample rate.
